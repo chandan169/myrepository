@@ -1,0 +1,21 @@
+C:\Users\benperk\Documents\Visual Studio 2015\Projects\remoteDebugging\remoteDebugging\obj\Debug\remoteDebugging.csprojResolveAssemblyReference.cache
+D:\AzureProjects\remoteDebugging\remoteDebugging\bin\roslyn\csc.exe
+D:\AzureProjects\remoteDebugging\remoteDebugging\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AzureProjects\remoteDebugging\remoteDebugging\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AzureProjects\remoteDebugging\remoteDebugging\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AzureProjects\remoteDebugging\remoteDebugging\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AzureProjects\remoteDebugging\remoteDebugging\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AzureProjects\remoteDebugging\remoteDebugging\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AzureProjects\remoteDebugging\remoteDebugging\bin\roslyn\System.Collections.Immutable.dll
+D:\AzureProjects\remoteDebugging\remoteDebugging\bin\roslyn\System.Reflection.Metadata.dll
+D:\AzureProjects\remoteDebugging\remoteDebugging\bin\roslyn\vbc.exe
+D:\AzureProjects\remoteDebugging\remoteDebugging\bin\roslyn\VBCSCompiler.exe
+D:\AzureProjects\remoteDebugging\remoteDebugging\bin\roslyn\VBCSCompiler.exe.config
+D:\AzureProjects\remoteDebugging\remoteDebugging\bin\remoteDebugging.dll.config
+D:\AzureProjects\remoteDebugging\remoteDebugging\bin\remoteDebugging.dll
+D:\AzureProjects\remoteDebugging\remoteDebugging\bin\remoteDebugging.pdb
+D:\AzureProjects\remoteDebugging\remoteDebugging\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AzureProjects\remoteDebugging\remoteDebugging\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AzureProjects\remoteDebugging\remoteDebugging\obj\Debug\remoteDebugging.csprojResolveAssemblyReference.cache
+D:\AzureProjects\remoteDebugging\remoteDebugging\obj\Debug\remoteDebugging.dll
+D:\AzureProjects\remoteDebugging\remoteDebugging\obj\Debug\remoteDebugging.pdb
