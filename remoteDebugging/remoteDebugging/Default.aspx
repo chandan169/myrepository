@@ -27,6 +27,7 @@
                 <asp:TableCell>Stop:  <asp:Label runat="server" ID="labelSlowStop" /></asp:TableCell>
             </asp:TableRow>
         </asp:Table> 
+        <input type="Submit" Name="Click" />
     </div>
     </form>
 </body>
